@@ -1,1 +1,2 @@
-print("Got is Awesome!")
+message = input("enter a string: ")
+print(message)
